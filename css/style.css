@@ -1,0 +1,11 @@
+.btn_h{
+    height: 38px;
+}
+.form-control:active{
+    border-color: #146c43;
+    box-shadow: none;
+}
+.form-control:focus{
+    border-color: #146c43;
+    box-shadow: none;
+}
